@@ -195,7 +195,7 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6 {c
 		font-weight: 900;
 		letter-spacing: 0.25rem;
 		line-height: 1.5;
@@ -4042,7 +4042,7 @@ input, select, textarea {
 		align-items: center;
 		color: #ffffff;
 		display: flex;
-		justify-content: center;
+		justify-content: space-evenly;
 		min-height: 40rem;
 		min-height: 95vh;
 		position: relative;
@@ -4306,8 +4306,8 @@ input, select, textarea {
 			margin: 0 auto;
 			padding-bottom: 3rem;
 			position: relative;
-			text-align-last: justify;
-			text-align: justify;
+			text-align-last: center;
+			text-align: center;
 			opacity: 0.95;
 		}
 
